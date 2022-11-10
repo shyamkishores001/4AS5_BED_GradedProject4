@@ -18,7 +18,7 @@ import com.example.demo.entity.*;
 public class EmployeeService {
 	
 	
-	
+	@Autowired
 	EmployeeRepository employeeRepository;
 	
 	
